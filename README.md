@@ -1,2 +1,2 @@
 # HearSight-Battery_Percentage
-To know HearSight Battery Percentage.
+To know the battery percentage of t
